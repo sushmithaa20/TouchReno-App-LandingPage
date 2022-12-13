@@ -6,10 +6,11 @@
  <br />
 <h3> :camera: <b>Screen Shots</b> </h3>
 
-![touchrenoSs1](https://user-images.githubusercontent.com/68849782/192138408-d59f043d-e8b8-46ec-a67c-769e572607d2.png)
+![tr1](https://user-images.githubusercontent.com/68849782/207317732-65748252-760a-4189-82c7-04c9d5de6005.png)
 <hr><br /> 
 
-![touchrenoSs2](https://user-images.githubusercontent.com/68849782/192138556-75adcc40-d63c-42c6-8ef5-40b6590254f3.png)
+
+![tr2](https://user-images.githubusercontent.com/68849782/207317928-39160f49-cea2-4470-b602-64b949121e3d.png)
 <hr><br /> 
 
 ![touchrenoSs3](https://user-images.githubusercontent.com/68849782/192138612-4cd88e02-d6c7-48c8-8d80-1083afb5e1c0.png)
